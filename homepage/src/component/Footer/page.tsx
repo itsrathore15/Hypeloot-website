@@ -20,7 +20,7 @@ const Page = () => {
                 xmlns="http://www.w3.org/2000/svg"
                 className="icon"
               >
-                <g clip-path="url(#clip0_6889_28090)">
+                <g clipPath="url(#clip0_6889_28090)">
                   <path
                     d="M15.0001 29.7289C23.1337 29.7289 29.7273 23.1346 29.7273 15.0002C29.7273 6.86575 23.1337 0.271484 15.0001 0.271484C6.86653 0.271484 0.272949 6.86575 0.272949 15.0002C0.272949 23.1346 6.86653 29.7289 15.0001 29.7289Z"
                     fill="black"
@@ -66,9 +66,9 @@ const Page = () => {
                     y2="5"
                     gradientUnits="userSpaceOnUse"
                   >
-                    <stop stop-color="#FFAE4D"></stop>
-                    <stop offset=".495" stop-color="#ED4B61"></stop>
-                    <stop offset=".974" stop-color="#AA31BE"></stop>
+                    <stop stopColor="#FFAE4D"></stop>
+                    <stop offset=".495" stopColor="#ED4B61"></stop>
+                    <stop offset=".974" stopColor="#AA31BE"></stop>
                   </linearGradient>
                 </defs>
               </svg>
